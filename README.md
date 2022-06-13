@@ -22,4 +22,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Proje Görseli
-![](C:\Users\Akif\Documents\github\kodluyoruzilkrepo\ilkrepogörsel.png)
+![](https://github.com/gulayvurucu/kodluyoruzilkrepo/blob/main/resim.png)
